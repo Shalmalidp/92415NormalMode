@@ -1,0 +1,23 @@
+body{
+width: 600px;
+height :713px;
+border: 1px solid black;
+margin top:0;
+margin-left:120px;
+position: relative;
+overflow: auto;
+}
+
+
+footer{
+  width: 100%;
+  height:40px;
+  border :1px black;
+  background-color:black;
+  bottom: 0px;
+  text-align: center;
+  position: absolute;
+  color: white;
+  line-height: 5px;
+
+}
