@@ -6,6 +6,7 @@ body{
 /*margin-left:120px;*/
 position: relative;
 overflow: auto;
+font-family: 'Questrial', sans-serif;
 }
 
 header{
@@ -110,7 +111,7 @@ max-width: 100%;
 
 /*vertical-align:middle;*/
 padding:10px;
-font-family:Forum;
+font-family:'Questrial', sans-serif;
 font-size: 10px;
 margin: 0 auto;
 text-align:center;
@@ -164,13 +165,13 @@ text-align: center;
 padding-top: 20px;
 padding-bottom: 0;
 color: white;
-font-family : Forum;
+font-family : 'Questrial', sans-serif;
 }
 .image-text2{
 text-align: center;
 padding-top: 0;
 color:white;
-font-family:Forum;
+font-family:'Questrial', sans-serif;
 }
 .input-data{
 display: inline-block;
@@ -218,34 +219,34 @@ text-align: left;
 
 .input1 p{
 
-font-size: 10px;
-
+font-size: 9px;
 padding :12px;
-font-family: Forum;
+font-family: 'Questrial', sans-serif;
 }
 
 .input2 p{
 
-font-size: 10px;
+font-size: 9px;
 padding :12px;
-font-family: Forum;
+font-family: 'Questrial', sans-serif;
 }
 
 .input3 p{
-font-size: 10px;
+font-size: 9px;
 padding :12px;
-font-family: Forum;
+font-family: 'Questrial', sans-serif;
 }
 
 .input4 p{
-font-size: 10px ; 
+font-size: 9px ; 
 padding :12px;
-font-family: Forum;
+font-family: 'Questrial', sans-serif;
 }
 
 p span{
 font-weight:bold;
-font-size: 11px;
+line-height: 25px;
+font-size: 13px;
 padding-left: 60px;
 }
 
